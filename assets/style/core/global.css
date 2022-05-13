@@ -1,0 +1,51 @@
+/**
+ * ======================================== 
+ * GLOBAL
+ * ========================================
+ */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container--all {
+	display: flex;
+    justify-content: space-between;
+	width:80%;
+	margin: 0px auto;
+}
+
+.container--all--about{
+	display: flex;
+    justify-content: center;
+	margin: 0px auto;
+
+}
+
+.container3 {
+	display: flex;
+    justify-content: center;
+	max-width: 1300px;
+	margin: 0px auto;
+}
+
+.container{
+    max-width:1440px;
+}
+
+.container--copyright {
+	display: flex;
+    justify-content: center;
+	max-width: 1300px;
+	margin: 0px auto;
+    margin-top:84px;
+}
+
+.container--all--footer {
+	display: flex;
+    justify-content: space-between;
+	width:80%;
+	margin: 0px auto;
+}

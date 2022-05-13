@@ -1,0 +1,18 @@
+/**
+ * ======================================== 
+ * Styles
+ * ========================================
+ */
+
+ /* CORE */
+@import 'core/global.css';
+@import 'core/reboot.css';
+@import 'core/typhography.css';
+@import 'core/variables.css';
+
+/* MODULES */
+@import 'modules/about.css';
+@import 'modules/features.css';
+@import 'modules/footer.css';
+@import 'modules/home.css';
+@import 'modules/team.css';

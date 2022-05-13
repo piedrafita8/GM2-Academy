@@ -1,0 +1,175 @@
+/**
+ * ======================================== 
+ * FEATURES
+ * ========================================
+ */
+
+.features{
+
+    min-height: 1710px;
+    background-image: url('../../images/Rectangle2.png');
+
+}
+
+.features--title{
+    margin: 0px auto;
+    padding-top: 120px;
+    width:260px;
+}
+
+.features--description{
+    margin: 20px auto;
+    width: 601px;
+    height: 70px;
+}
+
+#unlimiter{
+    padding-top: 2.93px;
+}
+
+.subtitle{
+    width: 297px;
+    height: 171px;  
+}
+
+.features--container{
+    margin-top:60px;
+}
+
+.medium{
+    text-align: center;
+    align-items: center;
+}
+
+.left{
+    text-align: left;
+}
+
+#filter{
+    filter: invert(1);
+}
+
+.unlimiter, .iso{
+    padding-top:367px;
+    padding-bottom:347px;
+}
+
+/* .container--img{
+    max-width: 375px;
+    max-height: 812px;
+    object-fit: none;
+} */
+
+.right{
+    display:flex;
+    align-items: flex-end;
+    padding-left: 240px;
+    padding-bottom: 10px;
+}
+
+.center{
+    padding-left:123px;
+}
+
+.features--1{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-right:60px;
+}
+
+.features--2{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.features--3{
+    padding-left:60px;
+}
+
+.support{
+    padding-top:60px;
+}
+
+
+/**
+ * ======================================== 
+ * MOBILE
+ * ========================================
+ */
+
+@media screen and (max-width:767px){
+
+    .features{
+        padding-bottom:140px;
+    }
+    
+    .features--description{
+        max-width: 300px;
+        max-height: 70px;
+    }
+
+    .features--description--mobile{
+        display:none;
+    }
+
+    .container3{
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .features--1{
+        padding-right: 0px;
+        align-items: center;
+    }
+
+    .unlimiter{
+        padding-top:0;
+        padding-bottom:0;
+        margin-bottom:50px;
+    }
+
+    .iso, .retina{
+        margin-top:100px;
+        padding-bottom:50px;
+
+    }
+
+    .support{
+        margin-top:120px;
+    }
+
+    .features--3{
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .subtitle{
+        padding-top:30px;
+    }
+
+    .free{
+        margin-top: 50px;
+        margin-bottom:120px;
+    }
+
+    .center-mobile{
+        text-align: center;
+        align-items: center;
+    }
+
+    .right{
+        padding-left: 123px;
+    }
+
+    .container--img{
+        max-width: 214px;
+        max-height: 468px;
+    }
+
+    .features--img{
+        width: 100%;
+    }
+}

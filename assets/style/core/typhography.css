@@ -1,0 +1,190 @@
+
+/**
+ * ======================================== 
+ * TYPHOGRAPHY
+ * ========================================
+ */
+
+.p--header{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+.p--nav{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #232233;
+}
+
+.h1--home{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48.83px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #5956E9;
+    padding: 40px 23px 0px 30px;
+}
+
+.p--home {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6C6C72;
+    padding: 18px 23px 0px 30px;
+}
+
+.h3--home{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    padding: 52px 251px 0px 30px;
+}
+
+.h1--black{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    text-transform: uppercase;
+}
+
+.p--grey{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #6C6C72;
+}
+
+.h1--white{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 47px;
+    text-transform: uppercase;
+    color:white;
+}
+
+.p--white{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFF;
+}
+
+.h1--footer{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 47px;
+    text-transform: uppercase;
+    color:#FFFFFF;
+}
+
+.p--footer{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#FFFFFF;
+}
+
+.h1--quicklink, .h1--newsletter{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+.h1--subtitle{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    color: #ffffff;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.p--subtitle{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    text-align: right;
+}
+
+.h1--people{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 47px;
+    color: #232233;
+    padding-bottom:5px;
+}
+
+.h3--people{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #6C6C72;
+    padding-bottom: 14px;
+}
+
+.p--people{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #6C6C72;
+}
+
+.p--copy{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffffff;
+    padding-left: 20px;
+}
+
+.footer--card--text{
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #232233;
+}
