@@ -1,0 +1,39 @@
+.principal{
+    min-height: 1024px;
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: #808080;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+}
+
+.principal--title{
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.container--form{
+    max-width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 0px 0px 0px 15px;
+
+}
+
+#input{
+    min-width: 70%;
+    min-height: 100px;
+}
+
+#submit{
+    margin-top:10px;
+    margin-bottom: 15px;
+}
+
+.result{
+    max-width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 0px 0px 0px 15px;
+    min-height: 100px;
+}

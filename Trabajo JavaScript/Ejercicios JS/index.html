@@ -4,13 +4,55 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Introduccion JS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css"/>
+    <title>Trabajo JS 1</title>
 </head>
 <body>
 
     <main>
-        <script src="app.js"></script>
+        <section class="principal">
+
+            <h1 class="principal--title">Form para resolver ejercicios</h1>
+
+            <div class="container--form">
+
+                <p>Selecciona un ejercicio</p>
+
+                <form id="form">
+    
+                    <select name="excercises">
+                        <option value="default">Elije un ejercicio</option>
+                        <option value="exercise1">Suma y resta</option>
+                        <option value="exercise2">Paridad y parejas</option>
+                        <option value="exercise3">Palindromo</option>
+                        <option value="exercise4">Romanos</option>
+                      </select>
+    
+                    <p>Mi input</p>
+    
+                    <textarea name="content" id="input"></textarea>
+                    <br>
+                    <input id="submit" type="submit" />
+    
+                </form>
+
+            </div>
+        
+
+            <h1 class="principal--title">Resultado</h1>
+
+            <div class="result">
+
+                <output id="result">Este es tu resultado</output>
+                
+            </div>
+
+        </section>
     </main>
     
+    <script src="app.js"></script>
 </body>
 </html>
